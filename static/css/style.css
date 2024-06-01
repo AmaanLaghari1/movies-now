@@ -1,0 +1,14 @@
+.view-trailer-btn {
+    font-size: 2.5rem;
+}
+
+.carousel-item img {
+    opacity: .8;
+    height: 20rem;
+}
+
+#Home {
+    background: linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, .8)),  url('../images/cover.jfif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
